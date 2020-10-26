@@ -54,6 +54,9 @@ Para este programa se ocupan librerias propias del lenguaje JAVA (no se ocupo ni
 
 # Resultados
 ![](figures/Prueba_Login.jpg)
+
 ![](figures/atxt.jpg)
 
+![](figures/blog.jpg)
 
+![](figures/clog.jpg)
