@@ -16,7 +16,7 @@ Problematica que se desarrollo:
 
 ~Una casilla tipo JPasswordField que sirve para introducir la contraseña.
 
-~Dos Etiquetas que hacen referencia a la casiila correspondiente.
+~Dos Etiquetas que hacen referencia a la casilla correspondiente.
 
 ~Un botón (*RegistrarU*) para registrar un Usuario y contraseña. La informacion la guarda en un archivo .txt.
 
