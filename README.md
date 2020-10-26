@@ -3,6 +3,7 @@
 Problematica que se desarrollo:
 
 *Se desarrollo un programa que implementa una aplicacion con GUI capaz de registrar usuarios y permitirles el acceso a una ventana secudaria sencilla mediante su usuario y contraseña previamente registrados. La contraseña y el usuario se guardan en un archivo de extención ".txt", la contraseña se guarda con un encriptado SHA-256.*
+
 # Link de funcionamiento del programa
 
 ~https://flipgrid.com/s/8LD9Wt_s4-aEucVP
@@ -12,9 +13,13 @@ Problematica que se desarrollo:
 # Elementos visuales y funcionamiento
 
 ~Una casilla JTextField que sirve para introducir el Usuario.
+
 ~Una casilla tipo JPasswordField que sirve para introducir la contraseña.
+
 ~Dos Etiquetas que hacen referencia a la casiila correspondiente.
+
 ~Un botón (*RegistrarU*) para registrar un Usuario y contraseña. La informacion la guarda en un archivo .txt.
+
 ~Un boton para ingresar (*Ingresar*) que verifica que los datos ingresados son iguales a los datos registrados y guardados en el .txt.
 
 # -Pre-requisitos
@@ -39,7 +44,6 @@ Para este programa se ocupan librerias propias del lenguaje JAVA (no se ocupo ni
 ~https://www.discoduroderoer.es/eventos-y-listeners-en-java/
 
 # Resultados
-
-![](figures/Prueba_Login.png)
+![](figures/Prueba_Login.jpg)
 
 
