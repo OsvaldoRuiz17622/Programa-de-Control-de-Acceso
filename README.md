@@ -33,14 +33,23 @@ Para este programa se ocupan librerias propias del lenguaje JAVA (no se ocupo ni
 
 # Referencias
 ~https://anabelisa.co/readme/
+
 ~https://docs.oracle.com/javase/tutorial/uiswing/components/passwordfield.html
+
 ~https://trellat.es/codificar-texto-sha-256-java/#:~:text=El%20m%C3%A9todo%20de%20cifrado%20SHA,(digest)%20del%20texto%20original.
+
 ~http://chuwiki.chuidiang.org/index.php?title=JFrame_y_JDialog
+
 ~https://ictblog.luisalbertogh.net/?p=274
+
 ~http://javainutil.blogspot.com/2013/05/java-generar-hash-sha-y-encriptar.html
+
 ~https://es.stackoverflow.com/questions/54098/que-algoritmo-de-cifrado-se-puede-usar-para-guardar-datos-en-java
+
 ~https://www.youtube.com/watch?v=El939Eu0Z70
+
 ~https://www.youtube.com/watch?v=X3UM7xp1AP8
+
 ~https://www.discoduroderoer.es/eventos-y-listeners-en-java/
 
 # Resultados
