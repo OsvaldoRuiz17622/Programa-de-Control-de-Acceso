@@ -6,6 +6,7 @@ Problematica que se desarrollo:
 # Link de funcionamiento del programa
 
 ~https://flipgrid.com/s/8LD9Wt_s4-aEucVP
+
 ~https://www.youtube.com/watch?v=MFGBrkox7Yg&feature=youtu.be
 
 # Elementos visuales y funcionamiento
